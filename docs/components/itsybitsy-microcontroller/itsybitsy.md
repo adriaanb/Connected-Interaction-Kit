@@ -9,6 +9,10 @@ has_children: false
 
 # ItsyBitsy Development Board
 
+The central component at the heart of your projects. It runs code, reads and processes sensor data, and controls outputs (lights, motors, speakers, etc.) 
+
+---
+
 Your kit includes one of **two functionally equivalent ItsyBitsy Development Boards**, depending on the edition of your Connected Interaction Kit. This page is designed to help you identify which version you own.
 
 |                         2022 Edition                         |                         2023 Edition                         |

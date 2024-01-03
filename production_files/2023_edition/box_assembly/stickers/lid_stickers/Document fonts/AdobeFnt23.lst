@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/adriaan/Documents/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers_lid/Box_Stickers/Document fonts/AdobeFnt23.lst
-FileLength:1845
-FileModTime:707326879
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers/lid_stickers/Document fonts/AdobeFnt23.lst
+FileLength:2116
+FileModTime:707327355
 %EndFont
 
 %BeginFont
@@ -22,11 +22,12 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/adriaan/Documents/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers_lid/Box_Stickers/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers/lid_stickers/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
+hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:218640
 FileModTime:707221738
@@ -48,9 +49,10 @@ WidthClass:5
 AngleClass:0
 FullName:Ubuntu Mono Bold
 WritingScript:Roman
-OutlineFileName:/Users/adriaan/Documents/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers_lid/Box_Stickers/Document fonts/UbuntuMono-Bold.ttf
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers/lid_stickers/Document fonts/UbuntuMono-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
+hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:174860
 FileModTime:339458400
@@ -71,9 +73,10 @@ WidthClass:5
 AngleClass:0
 FullName:Ubuntu Mono
 WritingScript:Roman
-OutlineFileName:/Users/adriaan/Documents/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers_lid/Box_Stickers/Document fonts/UbuntuMono-Regular.ttf
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2023_edition/box_assembly/stickers/lid_stickers/Document fonts/UbuntuMono-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
+hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:189892
 FileModTime:339458400

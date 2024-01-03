@@ -9,6 +9,10 @@ has_children: false
 
 # Bitsy Expander
 
+Expands the capabilities of your microcontroller. Provides solderless connectors, WiFi connectivity, battery management, and more.
+
+---
+
 Your kit includes one of **two functionally equivalent versions of the Bitsy Expander**, depending on the edition of your Connected Interaction Kit. This page is designed to help you identify which version you own.
 
 |                         2022 Edition                         |                         2023 Edition                         |
