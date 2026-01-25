@@ -1,42 +1,34 @@
-# Connected Interaction Kit
+# Connected Interaction Kit (2023 Edition)
 
-Documentation and tutorials surrounding the Connected Interaction Kit
+The Connected Interaction Kit is an educational toolkit that provides an easy and fun gateway to creating technology-mediated experiences in the context of design education. It contains a diverse and adaptable range of tools and components designed to encourage skill development and strengthen the confidence of its users.
 
-![Outside of the phsyical Connected Interaction Kit](assets/connected-interaction-kit-box.jpg)
+![Exposé of the Connected Interaction Kit](/assets/connected-interaction-kit-2023-expose.jpg)
 
-# Public Tutorials & Component Section
-The folder [/docs](/docs/) contains the digital counterpart to the physical box and booklet.
-The folder gets compiled into a GitHub Page and is accessible via https://id-studiolab.github.io/Connected-Interaction-Kit/.
+This repository contains design files and resources required for the production of the kit, as well as tutorials and documentation accompanying the kit.
 
-1. [/components](/docs/components/) contains a detailed documentation of all components and parts found in the Connected Interaction Kit.
-2. [/tutorials](/docs/tutorials/) contains a series of tutorials to help students get started with the kit. [Tutorial 01: Hello World](https://id-studiolab.github.io/Connected-Interaction-Kit/tutorials/01-hello-world/) & [Tutorial 2 Connecting Components](https://id-studiolab.github.io/Connected-Interaction-Kit/tutorials/02-connecting-components/) are a digital version of the tutorials found in the starter booklet of the Connected Interaction Kit, while [Tutorial 3: Connect to the Internet](https://id-studiolab.github.io/Connected-Interaction-Kit/tutorials/03-connect-to-the-internet/) is only linked to from the booklet.
+# Online Documentation
+
+A GitHub Page containing tutorials and documentation of the kit's content is available at https://id-studiolab.github.io/Connected-Interaction-Kit/. 
+
+The [/docs](/docs/) folder in this repository contains the kit's online documentation resources. The folder's contents are automatically compiled and deployed to the URL mentioned above whenever a change occurs.
 
 ---
 
-# Documentation of the kit production
-Everything related to the creation and manufacturing of the kit is documentated in [kit-production](/kit-production/).
-This is divided into the sub-categories of:
-1. **Electronic components**
-   1. tbd
-2. [Physical box](/kit-production/physical-box/README.md)
-   1. [Overview of ordered material](/kit-production/physical-box/README.md#overview-of-ordered-material)
-   2. [Box branding (working files, step-by-step, learnings)](/kit-production/physical-box/README.md#add-a-box-branding)
-   3. [Inlay (working files, step-by-step, learnings)](/kit-production/physical-box/README.md#the-cardboard-inlay)
-   4. [Stickers (step-by-step, PDF-generator)](/kit-production/physical-box/README.md#generating-qr-code-stickers)
-   5. [Kit assembly (step-by-step, learnings)](/kit-production/physical-box/README.md#assembling-the-final-kit)
-3. [Starter Booklet](/kit-production/starter-booklet/README.md)
-   1. [Final print and digital PDF](/kit-production/starter-booklet/final-export/)
-   2. [Figma illustrations](/kit-production/starter-booklet/README.md#illustrations)
-   3. [InDesign working files](/kit-production/starter-booklet/InDesign)
-   4. [Ordering booklets](/kit-production/starter-booklet/README.md#ordering-booklets)
+# Kit Production
 
+Everything concerning the production of the kit is documented in the [/production_files](/production_files/) directory. It is further subdivided into the following categories:
 
-
-**To Do**
-- [x] Finish writing **Kit assembly**
-- [x] Add tidied Figma working file for the box branding and inlay section
-- [x] Document starter-booklet section
-- [x] Add links and table of content to readme.md files
-- [ ] Documement workflow for electronic components (testing, flashing)
-- [ ] Refine sticker generator
+1. [Booklet](/production_files/2023_edition/booklet/README.md)
+   1. [Asset Source Files](/production_files/2023_edition/booklet/README.md#asset-source-files)
+   2. [Ordering Booklets](/production_files/2023_edition/booklet/README.md#ordering-booklets)
+   3. [Digital Publishing](/production_files/2023_edition/booklet/README.md#digital-publishing)
+2. [Box Assembly](/production_files/2023_edition/box_assembly/README.md)
+   1. [Material Overview](/production_files/2023_edition/box_assembly/README.md#material-overview)
+   2. [Box Branding](/production_files/2023_edition/box_assembly/README.md#box-branding)
+   3. [Box Inlays](/production_files/2023_edition/box_assembly/README.md#box-inlays)
+      - [Materials and Tools](/production_files/2023_edition/box_assembly/README.md#materials-and-tools)
+      - [Component Label Inlay](/production_files/2023_edition/box_assembly/README.md#component-label-inlay)
+      - [Cardboard Inlays](/production_files/2023_edition/box_assembly/README.md#cardboard-inlays)
+   4. [WiFi Token QR Code Stickers](/production_files/2023_edition/box_assembly/README.md#wifi-token-qr-code-stickers)
+   5. [Final Assembly](/production_files/2023_edition/box_assembly/README.md#final-assembly)
 

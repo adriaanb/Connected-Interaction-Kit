@@ -1,0 +1,86 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/box_assembly/stickers/lid_stickers/Document fonts/AdobeFnt23.lst
+FileLength:2093
+FileModTime:725974509
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/box_assembly/stickers/lid_stickers/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:707221738
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Bold
+FamilyName:Ubuntu Mono
+StyleName:Bold
+MenuName:Ubuntu Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono Bold
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/box_assembly/stickers/lid_stickers/Document fonts/UbuntuMono-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:174860
+FileModTime:339458400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Regular
+FamilyName:Ubuntu Mono
+StyleName:Regular
+MenuName:Ubuntu Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/box_assembly/stickers/lid_stickers/Document fonts/UbuntuMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:189892
+FileModTime:339458400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+

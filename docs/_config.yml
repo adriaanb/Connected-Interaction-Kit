@@ -1,14 +1,30 @@
-remote_theme: just-the-docs/just-the-docs
+# use archived theme source to retain legacy color scheme 
+remote_theme: adriaanb/just-the-docs
 
 title: Connected Interaction Kit
 color_scheme: connected-interaction-kit
-aux_links_new_tab: true
 
+callouts_level: quiet
+callouts:
+  highlight:
+    color: red
+  highlight-yellow:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: red
+  note-purple:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/id-studiolab/Connected-Interaction-Kit" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+plugins:
+  - jekyll-redirect-from

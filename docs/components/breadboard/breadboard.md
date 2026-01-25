@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Breadboard"
-parent: "Components"
+grand_parent: "Components"
+parent: "Accessories"
+nav_order: 0
 has_children: false
 ---
 

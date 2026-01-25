@@ -1,0 +1,204 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/AdobeFnt23.lst
+FileLength:4677
+FileModTime:707680300
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+MenuName:Ubuntu
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Bold
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/Ubuntu-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:333616
+FileModTime:678622511
+NameArray:0,Mac,4,Ubuntu Bold
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Italic
+FamilyName:Ubuntu
+StyleName:Italic
+MenuName:Ubuntu
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Italic
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/Ubuntu-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:386440
+FileModTime:678622511
+NameArray:0,Mac,4,Ubuntu Italic
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+MenuName:Ubuntu Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Light
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/Ubuntu-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:415552
+FileModTime:678622511
+NameArray:0,Mac,18,Ubuntu Light
+NameArray:0,Mac,4,Ubuntu Light
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Medium
+FamilyName:Ubuntu
+StyleName:Medium
+MenuName:Ubuntu Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Medium
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/Ubuntu-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:285136
+FileModTime:314060400
+NameArray:0,Win,1,Ubuntu Medium
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Regular
+FamilyName:Ubuntu
+StyleName:Regular
+MenuName:Ubuntu
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Regular
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/Ubuntu-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:299684
+FileModTime:314060400
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Bold
+FamilyName:Ubuntu Mono
+StyleName:Bold
+MenuName:Ubuntu Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono Bold
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/UbuntuMono-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:174860
+FileModTime:339458400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Italic
+FamilyName:Ubuntu Mono
+StyleName:Italic
+MenuName:Ubuntu Mono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Mono Italic
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/UbuntuMono-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:193936
+FileModTime:339458400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Regular
+FamilyName:Ubuntu Mono
+StyleName:Regular
+MenuName:Ubuntu Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono
+WritingScript:Roman
+OutlineFileName:/Users/adriaan/git/Connected-Interaction-Kit/production_files/2024_edidion (wip)/booklet/Document fonts/UbuntuMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:189892
+FileModTime:339458400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
