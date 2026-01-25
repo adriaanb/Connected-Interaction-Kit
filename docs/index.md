@@ -4,6 +4,9 @@ title: Home
 nav_order: 0
 ---
 
+{: .note }
+This site is a frozen snapshot of the project as of August 2023 for personal documentation purposes only. For the actively maintained version, see [here](https://id-studiolab.github.io/Connected-Interaction-Kit/).
+
 # Connected Interaction Kit 
 
 Hello, fellow prototyper!
